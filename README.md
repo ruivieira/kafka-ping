@@ -1,4 +1,4 @@
-# ![ping](docs/ping.png) kafka-ping project
+# ![ping](docs/ping.png) kafka-ping
 
 `kafka-ping` is a REST server to send ad-hoc messages to Apache Kafka topics.
 
